@@ -1,0 +1,12 @@
+{
+  "name": "quasithings-github-io",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.8.1",
+    "three.js": "threejs#*",
+    "normalize-css": "~3.0.3",
+    "dat-gui": "~0.5.1"
+  },
+  "devDependencies": {
+  }
+}
