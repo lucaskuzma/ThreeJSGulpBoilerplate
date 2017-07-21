@@ -1,11 +1,10 @@
 {
-  "name": "quasithings-github-io",
+  "name": "threejs-gulp-boilerplate",
   "private": true,
   "dependencies": {
-    "modernizr": "~2.8.1",
-    "three.js": "threejs#*",
-    "normalize-css": "~3.0.3",
-    "dat-gui": "~0.5.1"
+    "threejs": "https://raw.githubusercontent.com/mrdoob/three.js/master/build/three.min.js",
+    "normalize-css": "7.0.0",
+    "dat-gui": "0.6.5"
   },
   "devDependencies": {
   }
