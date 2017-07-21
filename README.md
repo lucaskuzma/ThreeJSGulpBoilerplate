@@ -1,4 +1,6 @@
-# ThreeJSGulpBoilerplate
+# ThreeJS Gulp Boilerplate
+
+Starting point for ThreeJS projects with autoreloading.
 
 ### Local Development
 
